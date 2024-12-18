@@ -5,7 +5,7 @@
 |--------------------|-------------|
 | Mahlet Hailu       | ETS0794/13  |
 | Naod Ararsa        | ETS0956/13  |
-| Naod Zekaria       | ETS0961/13  |
+| Naud Zekaria       | ETS0961/13  |
 | Naol Yadete        | ETS0968/13  |
 | Natnael Tafesse    | ETS1026/13  |
 
