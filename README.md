@@ -1,5 +1,7 @@
 # SCD Final Project
 
+## Group 2
+
 ## Group Members
 | Name               | ID          |
 |--------------------|-------------|
